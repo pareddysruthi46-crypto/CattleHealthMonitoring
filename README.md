@@ -9,6 +9,10 @@ The system classifies cattle into:
 - Healthy
 - At Risk
 - Diseased
+## Live Link
+https://cattlehealthmonitoring-gxgjrhvtamtpbhqetxpsht.streamlit.app/
+## github link
+https://github.com/pareddysruthi46-crypto/CattleHealthMonitoring
 
 ## Technologies Used
 
@@ -41,3 +45,8 @@ pip install -r requirements.txt
 Run
 
 streamlit run program.py
+
+
+## Deployed by 
+Meghana Sruthi
+
