@@ -54,15 +54,15 @@ streamlit run program.py
 
 ### Home Page
 
-![Home Page](screenshots/home.png.png)
+![Home Page](screenshot/home.png.png)
 
 ### Prediction Page
 
-![Prediction Page](screenshots/prediction.png.png)
+![Prediction Page](screenshot/prediction.png.png)
 
 ### Insights
 
-![Insights](screenshots/insights.png.png)
+![Insights](screenshot/insight.png.png)
 
 
 
